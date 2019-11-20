@@ -16,6 +16,7 @@ This is a simple web porject, deployment can be on any web server or even local 
 
 ## How to Contribute
 
+Please fork this repository and then issue Puul Requests for review.
 
 ### Copyright
 
